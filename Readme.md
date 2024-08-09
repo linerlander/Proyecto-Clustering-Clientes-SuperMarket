@@ -10,12 +10,10 @@
     
 1. <a href="#sec_1">Introducción</a>  
 2. <a href="#sec_2">Exploración del set de datos</a>  
-3. <a href="#sec_3">Selección de Muestras</a>  
-4. <a href="#sec_4">Pre-selección de variables</a>  
-5. <a href="#sec_5">Preparación de datos</a>
-6. <a href="#sec_6">Modelo de regresión Lineal</a>  
-7. <a href="#sec_7">Métricas de desempeño</a> 
-8. <a href="#sec_8">Conclusiones y Recomendaciones</a>     
+3. <a href="#sec_3">Análisis de los datos</a>  
+4. <a href="#sec_4">Limpieza del set de datos</a>  
+5. <a href="#sec_5">Pre-selección de variables</a>  
+6. <a href="#sec_6">Conclusiones y Recomendaciones</a>     
 
  
 </font>
