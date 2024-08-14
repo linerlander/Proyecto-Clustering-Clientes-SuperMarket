@@ -12,8 +12,10 @@
 2. <a href="#sec_2">Exploración del set de datos</a>  
 3. <a href="#sec_3">Análisis de los datos</a>  
 4. <a href="#sec_4">Limpieza del set de datos</a>  
-5. <a href="#sec_5">Pre-selección de variables</a>  
-6. <a href="#sec_6">Conclusiones y Recomendaciones</a>     
+5. <a href="#sec_5">Análisis exploratorio inicial</a>
+6. <a href="#sec_6">Pre-Procesamiento</a>
+7. <a href="#sec_7">Clustering K-means</a>    
+8. <a href="#sec_8">Conclusiones y Recomendaciones</a>     
 
  
 </font>
